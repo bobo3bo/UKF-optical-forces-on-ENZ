@@ -1,6 +1,32 @@
-## Welcome to GitHub Pages
+# Rotating nanoparticles with optical forces – nanotechnology with a twist
 
-You can use the [editor on GitHub](https://github.com/bobo3bo/UKF-optical-forces-on-ENZ/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+<body>
+
+  <div class="topbar">
+  <a href="./README.md">About</a>
+  <a href="./activity.md">Activity</a>
+  <a href="./contact.md">Contact</a>
+  </div>
+
+  <h1>Matija Piškorec</h1>
+  <div class="left">
+  <p>Welcome to my personal web page. I am a research assistant at the <a href="http://www.irb.hr/Ljudi/Matija-Piskorec">Ruđer Bošković Institute</a> in Zagreb, Croatia, and a PhD student at the <a href="http://www.fer.unizg.hr/">Faculty of Electrical Engineering and Computing</a>, University of Zagreb. My research interests are artificial intelligence, machine learning, data mining, complex systems and complex networks. I also have some experience in computational biophysics. More details are available in my <a href="./static/pdf/CV Matija Piskorec January 2018.pdf">CV</a> and on the <a href="./static/html/activity.html">Activity</a> page.</p> 
+  </div>
+
+  <div class="right">
+  <img src="./static/images/matija-piskorec-bw.jpg">
+  </div>
+
+  <div class="bottom-div"></div>
+
+</body>
+
+
+project duration: 1st of June to 1st of December
+value of project: 72.000HRK
+project leader: Boris Okorn (https://www.irb.hr/O-IRB-u/Ljudi/Boris-Okorn)
+project co-leader: Francisco Rodriguez Fortuno (https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/rodriguezfortuno(paco))
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
