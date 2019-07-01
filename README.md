@@ -1,63 +1,24 @@
 # Rotating nanoparticles with optical forces – nanotechnology with a twist
 
-<body>
+[About the project](./README.md)
 
-  <div class="topbar">
-  <a href="./README.md">About</a>
-  <a href="./activity.md">Activity</a>
-  <a href="./contact.md">Contact</a>
-  </div>
+[Activity on the project](./activity.md)
 
-  <h1>Matija Piškorec</h1>
-  <div class="left">
-  <p>Welcome to my personal web page. I am a research assistant at the <a href="http://www.irb.hr/Ljudi/Matija-Piskorec">Ruđer Bošković Institute</a> in Zagreb, Croatia, and a PhD student at the <a href="http://www.fer.unizg.hr/">Faculty of Electrical Engineering and Computing</a>, University of Zagreb. My research interests are artificial intelligence, machine learning, data mining, complex systems and complex networks. I also have some experience in computational biophysics. More details are available in my <a href="./static/pdf/CV Matija Piskorec January 2018.pdf">CV</a> and on the <a href="./static/html/activity.html">Activity</a> page.</p> 
-  </div>
+[Contact](./contact.md)
 
-  <div class="right">
-  <img src="./static/images/matija-piskorec-bw.jpg">
-  </div>
+## Welcome to the webpage of the project "Rotating nanoparticles with optical forces – nanotechnology with a twist".
 
-  <div class="bottom-div"></div>
+### Info about the project:
 
-</body>
+- project duration: 1st of June 2019 to 1st of December 2019 (6 months)
+- value of project: 72,000.00 HRK
+- project leader: [Boris Okorn](https://www.irb.hr/O-IRB-u/Ljudi/Boris-Okorn) from [Ruđer Bošković Institute](https://www.irb.hr/eng)
+- project co-leader: [Francisco J. Rodriguez Fortuno](https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/rodriguezfortuno(paco)) from [King's College London](https://www.kcl.ac.uk)
+
+### Project summary
+With this visit, the candidate will internationally lead new avenues of research in the field of nanophotonics and optomechanics, by becoming an expert in the study of optical forces experienced by illuminated nanoparticles with the exotic material property of permittivity-near-zero. These illuminated nanoparticles are expected to experience forces and torques depending on their shapes in a perfect analogy to those experienced by solid objects in a fluid flow, due to the equivalence of the governing equations, resulting in fascinating novel effects. Optical forces are currently at the forefront of research in nanotechnology, dealing with the manipulation of particles, cells or atoms in a contact-less manner using light, with future applications in nanomedicine, nanofactories, sensing and security. The candidate will acquire theoretical insight and mastery of the required numerical simulation for the calculation of optical forces on exotic nanoparticles, transferring the know-how of the field to Croatia.
+The project ‘Rotating nanoparticles with optical forces – nanotechnology with a twist’ represents the start of collaboration between the researchers at King’s Collage London and Ruđer Bošković Institute.
 
 
-project duration: 1st of June to 1st of December
-value of project: 72.000HRK
-project leader: Boris Okorn (https://www.irb.hr/O-IRB-u/Ljudi/Boris-Okorn)
-project co-leader: Francisco Rodriguez Fortuno (https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/rodriguezfortuno(paco))
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bobo3bo/UKF-optical-forces-on-ENZ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
