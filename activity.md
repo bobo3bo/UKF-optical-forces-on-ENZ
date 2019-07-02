@@ -1,4 +1,4 @@
-
+  
 # Rotating nanoparticles with optical forces – nanotechnology with a twist
 
 
@@ -16,7 +16,7 @@
 
 ### 28th of June
 First (wrong) results in the calculations of the force from Maxwell's stress tensor due to the simulation space being too small.  
-![Fxyz vs box size](./activity/pictures/20degmesh5nmexport700nmmetlabmesh5nm500.03.FxyzRGB.png)
+![Fxyz vs box size](./activity/pictures/20degmesh5nmexport700nmmetlabmesh5nm500.03.FxyzRGB.png)  
 Total force (Fx-red, Fy-green, Fz-blue) vs. sidelength of the cube on whose surfaces the MST and force is calculated. With bigger cubes the force should converge in value, while at small sizes there should be numerical artifacts.
 
 ### 20th of June
