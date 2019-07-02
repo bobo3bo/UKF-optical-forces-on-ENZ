@@ -22,7 +22,7 @@
 
 ![UKF](./logos/ENznanjepomocen.jpg) 
 
-#### The project is funded by the Unity Through Knowledge Fund.
+#### The project is funded by the [Unity Through Knowledge Fund](http://ukf.hr/default.aspx?id=26).
 
 ![IRB](./logos/irb.svg)  
 
