@@ -22,7 +22,7 @@
 
 ![UKF](./logos/znanjepomoc.jpg) 
 
-#### Projekt je financiran od strane [Fonda "JEdinstvo uz pomoć znanja"](http://ukf.hr/).
+#### Projekt je financiran od strane [Fonda "Jedinstvo uz pomoć znanja"](http://ukf.hr/).
 
 ![IRB](./logos/irb.svg)  
 
