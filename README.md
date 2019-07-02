@@ -16,7 +16,7 @@
 - project leader: [Boris Okorn](https://www.irb.hr/O-IRB-u/Ljudi/Boris-Okorn) from [Ruđer Bošković Institute](https://www.irb.hr/eng)
 - project co-leader: [Francisco J. Rodriguez Fortuno](https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/rodriguezfortuno(paco)) from [King's College London](https://www.kcl.ac.uk)
 
-![UKF](./logos/znanjepomoc.jpg) 
+![UKF](./logos/ENznanjepomocen.jpg) 
 
 The project is funded by the Unity Through Knowledge Fund.
 
