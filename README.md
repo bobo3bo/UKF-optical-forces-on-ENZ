@@ -24,11 +24,11 @@
 
 ![IRB](./logos/irb.svg)  
 
-#### Ruđer Bošković Institute is the host institution.
+Ruđer Bošković Institute is the host institution.
 
 ![KCL](./logos/KCLlogo130.gif)
 
-#### King's College London is the visiting institution where the project leader will work under the mentorship of the project co-leader to gain new skills and knowledge needed for the successful work on the project.
+King's College London is the visiting institution where the project leader will work under the mentorship of the project co-leader to gain new skills and knowledge needed for the successful work on the project.
 
 ### Project summary
 With this visit, the candidate will internationally lead new avenues of research in the field of nanophotonics and optomechanics, by becoming an expert in the study of optical forces experienced by illuminated nanoparticles with the exotic material property of permittivity-near-zero. These illuminated nanoparticles are expected to experience forces and torques depending on their shapes in a perfect analogy to those experienced by solid objects in a fluid flow, due to the equivalence of the governing equations, resulting in fascinating novel effects. Optical forces are currently at the forefront of research in nanotechnology, dealing with the manipulation of particles, cells or atoms in a contact-less manner using light, with future applications in nanomedicine, nanofactories, sensing and security. The candidate will acquire theoretical insight and mastery of the required numerical simulation for the calculation of optical forces on exotic nanoparticles, transferring the know-how of the field to Croatia.
