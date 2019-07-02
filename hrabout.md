@@ -34,7 +34,7 @@ King's College London je partnerska organizacija u inozemstvu na kojoj će vodit
 
 ### Sažetak projekta:
 U sklopu ove posjete kandidat će postati stručnjak u području induciranja optičkih sila na osvijetljene nanočestice koje se sastoje od egzotičnih materijala nulte permitivnosti. Time će kandidat otvoriti nove smjerove internacionalnih istraživanja unutar polja nanofotonike i optomehanike. Na takve nanočestice se očekuje da će, pod utjecajem vanjskog osvjetljenja, biti inducirane optičke sile i momenti ovisni o njihovom obliku. Te sile i momenti bi trebali biti u potpunoj analogiji sa silama i momentima induciranim na čvrste objekte uronjene u tok fluida zbog ekvivalentnosti jednadžbi koje opisuju takve sustave. Tako inducirane optičke sile i momenti na čestice bi trebali otvoriti nove smjerove istraživanja kroz nove efekte koji se mogu postići takvim sustavima. Optičke sile trenutno prednjače u istraživanjima u području nanotehnologije te se primjenjuju u beskontaktnoj manipulaciji čestica, ćelija ili atoma korištenjem svjetla dok su područja primjene u nanomedicini, izgradnji nanosustava (nanotvornice), senzorici i sigurnosti. Kandidat će steći teorijska znanja i ovladati numeričkim simulacijama potrebnim za izračun optičkih sila na egzotične čestice te će tako prenijeti znanja iz tog područja u Hrvatsku.
-Projekt 'Rotating nanoparticles with optical forces – nanotechnology with a twist' predstavlja početak suradnje između istraživača sa King's College London i Instituta Ruđer Bošković.
+Projekt 'Rotating nanoparticles with optical forces – nanotechnology with a twist' predstavlja početak suradnje između istraživača s King's College London i Instituta Ruđer Bošković.
 
 
 
