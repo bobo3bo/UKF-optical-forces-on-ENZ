@@ -13,7 +13,7 @@
 
 ### Osnovne informacije o projektu:
 
-- trajanje projekta: 1. Lipanj do 1. Prosinac 2019. (6 mjeseci)
+- trajanje projekta: od 1. Lipnja do 1. Prosinca 2019. (6 mjeseci)
 - vrijednost projekta: 72,000.00 HRK
 - ljudi:  
 [Boris Okorn](https://www.irb.hr/O-IRB-u/Ljudi/Boris-Okorn) sa [Instituta Ruđer Bošković](https://www.irb.hr/) (voditelj projekta),  
