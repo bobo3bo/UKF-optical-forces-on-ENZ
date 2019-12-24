@@ -21,23 +21,24 @@
 results of the project
 
 ### November
-*2D
+<!-- foo bar -->*2D
 
 ### October
-*torque, tensor algebra
+<!-- *torque, tensor algebra -->
 
 ### September
-*continue checking missmatch and source of difference
+<!-- *continue checking missmatch and source of difference -->
 
 The main idea of this project, as well as the methodology used, were presented on the [iPlasmaNano 2019 conferance](http://www.iplasmanano2019.com/) in the form of a poster. 
 ![poster_iplasmanano](./activity/pictures/BO_iPlasmaNano19_PosterA1_final.png)
 
 ### August
-*continue checking missmatch and source of difference
+<!-- *continue checking missmatch and source of difference -->
 
 ### July
-*problems with calculations, used scatt fields, checked empty space (meshing, simulation volume, diff freq). Checking unwanted Ez component in PW, addPW in Matlab, checking mesh
-missmatch theory and numerical
+<!-- *problems with calculations, used scatt fields, checked empty space (meshing, simulation volume, diff freq). Checking unwanted Ez component in PW, addPW in Matlab, checking mesh
+missmatch theory and numerical -->
+
 
 
 ### 28th of June
