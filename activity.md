@@ -21,7 +21,7 @@
 results of the project
 
 ### November
-<!-- foo bar -->*2D
+<!-- *2D -->
 
 ### October
 <!-- *torque, tensor algebra -->
