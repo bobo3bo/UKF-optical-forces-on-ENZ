@@ -13,12 +13,21 @@
 # Activity on the project
 
 ## results of the project
-
+<!-- summary 
+With this project we (learned and) demonstrated the use of Maxwell's Stress Tensor in order to calculate induced optical forces and torques on small nanoparticles having different shapes. Special emphasis was on nanoparticles excited (by a plane wave) at their zero permittivity frequency to use the analogy between the asociated electromagnetic equation and fluid flow.
+...
+In particular the following achievements were met:
+- Performed analytical work in order to understand the theory behind the extraction of forces and torques from the electromagnetic field spatial profiles, using Maxwell stress tensor and derived quantities for the torque, including analytical work to reframe the well-known three-dimensional case into a two-dimensional case.
+- Implementation of the resulting equations into a Matlab software for the retrieval of the force and torque on 3-dimensional and 2-dimensional particles under plane wave illumination, from the electromagnetic fields calculated in a commercial numerical simulation software.
+- The calculation method and main idea of the project was presented at iPlasmaNano 2019 conference (15th till 20th September) via poster titled ‘Rotating nanoparticles with optical forces–nanotechnology with a twist’.
+- Carried out extensive analytical work on optical forces in order to benchmark the scientific correctness of the developed codes, by comparing simulation results to known forces acting on spherical/cylindrical nanoparticles of dielectric or metallic materials, or on flat reflecting walls.
+- Carried out numerical simulations of Epsilon-Near-Zero and other nanoparticles of different shapes, illuminated by incident light at different angles, to plot the force and torque of different particles and situations, as well as the orientation-dependent potential energy of the particle derived from the torque.
+The project had a satisfactory outcome. The software to extract force and torque in 2D nanoparticles was successfully used to reproduce known results, and was then used to predict torques and forces acting on differently shaped ENZ nanoparticles.-->
 
 ## project log:
 
 ### December
-results of the project
+<!-- results of the project-->
 
 ### November
 <!-- *2D -->
@@ -37,7 +46,14 @@ The main idea of this project, as well as the methodology used, were presented o
 
 ### July
 <!-- *problems with calculations, used scatt fields, checked empty space (meshing, simulation volume, diff freq). Checking unwanted Ez component in PW, addPW in Matlab, checking mesh
-missmatch theory and numerical -->
+missmatch theory and numerical 
+Spent most of the time on investigating (why are there) wrong results. Played around with the mesh of the system, as well as the simulation volume. Observed that the mesh (FD simulations) doesn't play that big of a role and that there is some inherent error with simulations of just the empty space (second graph)
+![Fzagnpmesh](./activity/pictures/FzagnpSphere_diffmesh.png)
+![Fzspacemesh](./activity/pictures/FzspaceSphere_diffmesh.png)
+So we did calculations for scattered fields, to remove the influance of the excitation and finally got some good results, although the integration volume for the force needs to be big:
+![Fscatt](./activity/pictures/FonSphereScatt_fields.png)
+Next step was to take the 
+scatt fields and add PW in Matlab-->
 
 
 
