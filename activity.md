@@ -46,13 +46,13 @@ The main idea of this project, as well as the methodology used, were presented o
 
 ### July
 <!-- *problems with calculations, used scatt fields, checked empty space (meshing, simulation volume, diff freq). Checking unwanted Ez component in PW, addPW in Matlab, checking mesh
-missmatch theory and numerical 
+missmatch theory and numerical -->
 Spent most of the time on investigating (why are there) wrong results. Played around with the mesh of the system, as well as the simulation volume. Observed that the mesh (FD simulations) doesn't play that big of a role and that there is some inherent error with simulations of just the empty space (second graph)
 ![Fzagnpmesh](./activity/pictures/FzagnpSphere_diffmesh.png)
 ![Fzspacemesh](./activity/pictures/FzspaceSphere_diffmesh.png)
 So we did calculations for scattered fields, to remove the influance of the excitation and finally got some good results, although the integration volume for the force needs to be big:
 ![Fscatt](./activity/pictures/FonSphereScatt_fields.png)
-Next step was to take the 
+<!-- Next step was to take the 
 scatt fields and add PW in Matlab-->
 
 
