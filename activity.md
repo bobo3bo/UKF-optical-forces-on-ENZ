@@ -24,6 +24,7 @@ In particular the following achievements were met:
 - Carried out numerical simulations of Epsilon-Near-Zero and other nanoparticles of different shapes, illuminated by incident light at different angles, to plot the force and torque of different particles and situations, as well as the orientation-dependent potential energy of the particle derived from the torque.
 The project had a satisfactory outcome. The software to extract force and torque in 2D nanoparticles was successfully used to reproduce known results, and was then used to predict torques and forces acting on differently shaped ENZ nanoparticles.-->
 
+A method to numerically calculate forces and torques on Epsilon-Near-Zero and other nanoparticles of different shapes, illuminated by incident light at different angles was developed.
 
 ## project log:
 
