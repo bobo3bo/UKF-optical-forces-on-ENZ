@@ -17,7 +17,7 @@
 - value of project: 72,000.00 HRK
 - people involved:  
 [Boris Okorn](https://www.irb.hr/eng/About-RBI/People/Boris-Okorn) from [Ruđer Bošković Institute](https://www.irb.hr/eng) (project leader),  
-[Francisco J. Rodriguez Fortuno](https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/rodriguezfortuno(paco)) from [King's College London](https://www.kcl.ac.uk) (project co-leader),  
+[Francisco J. Rodriguez Fortuno](https://www.kcl.ac.uk/people/francisco-rodriguez-fortuno) from [King's College London](https://www.kcl.ac.uk) (project co-leader),  
 [Jordi Sancho Parramon](https://www.irb.hr/eng/About-RBI/People/Jordi-Sancho-Parramon) from [Ruđer Bošković Institute](https://www.irb.hr/eng) (researcher involved)
 
 ![UKF](./logos/ENznanjepomocen.jpg) 
